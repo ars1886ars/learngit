@@ -1,5 +1,0 @@
-hello world 
-this is a test text file
-don not care about this change
-bye
-see you
